@@ -1,13 +1,13 @@
-package com.firstproject.springbootfirstproject;
+package com.samiransamanta.journalApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootfirstprojectApplication {
+public class JournalApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootfirstprojectApplication.class, args);
+		SpringApplication.run(JournalApplication.class, args);
 	}
 
 }
